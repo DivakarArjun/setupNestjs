@@ -1,7 +1,7 @@
 import { HTTP } from "./code.responses";
 export const ADMINMSG = {
     ERROR: `Something went wrong. Please contact support@millieclinic.com if the issue continues.`,
-    ADMIN_LOGIN: 'Admin login successfully',
+    ADMIN_LOGIN: 'Admin login successfulsssly',
 }
 export const COMMANRESPONSE = {
     ADMIN_LOGIN: {
